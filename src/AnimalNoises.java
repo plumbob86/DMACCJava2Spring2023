@@ -113,7 +113,9 @@ public class AnimalNoises {
 
 		Siamang monk = new Siamang();
 		System.out.println(monk.makeNoise());
-
+		
+		Gorilla nash = new Gorilla();
+		System.out.println(nash.makeNoise());
 	}
 
 }
